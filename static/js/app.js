@@ -121,6 +121,6 @@ function buildchart(sampleID){
   });
 };
 
-var json = "./data/samples.json";
+var json = "/plotly-challenge/data/samples.json";
 
 init();
